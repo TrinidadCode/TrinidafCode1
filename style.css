@@ -1,5 +1,5 @@
 body{
-    background-color: green;
+    background-color: red;
   }
   .center-box{
     position: absolute;
@@ -19,23 +19,23 @@ body{
     border: 2px solid white;
     border-radius: 10px;
     font-size: 12pt;
-    color:green;
+    color:red;
   }
   .btn-style{
     padding: 10px 30px;
     border:1px solid white;
     border-radius: 20px;
     background-color: white;
-    color:green;
+    color:red;
   }
   .btn-style:hover{
-    background-color: green;
+    background-color: red;
     color:white;
   }
   .an-btn{
     margin-top: 10px;
     border: 0;
-    background-color: green;
+    background-color: red;
     color:white;
     font-size: 11pt;
   }
